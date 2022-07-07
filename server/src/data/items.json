@@ -1,0 +1,35 @@
+[
+  {
+    "number": "0001",
+    "author": "UFVJM",
+    "id": "bsf4t62vq",
+    "loaned_to": "Tales",
+    "status": "Indisponivel",
+    "title": "SINTEGRA",
+    "year": "2021",
+    "image": "https://portal.ufvjm.edu.br/agendas/eventos/2021/Cartazdedivulgaoda8SemanadaIntegraoEnsinoPesquisaeExtensoSintegradaUFVJM.png/@@images/009bf33a-10a2-4bc3-95e0-82094e71df71.png",
+    "evaluation": 4
+  },
+  {
+    "number": "00001",
+    "author": "Tio Bob",
+    "id": "3o6co9oiq",
+    "loaned_to": "",
+    "status": "Disponível",
+    "title": "Código Limpo",
+    "year": "2001",
+    "image": "https://m.media-amazon.com/images/I/41IRFCLk-kL.jpg",
+    "evaluation": 5
+  },
+  {
+    "number": "00003",
+    "author": "Hortência Marcari",
+    "id": "fafpcm4ia",
+    "loaned_to": "Fulano",
+    "status": "Indisponivel",
+    "title": "Basquete 101",
+    "year": "2010",
+    "image": "https://img.elo7.com.br/product/zoom/3D8010B/kit-com-5-arquivos-de-corte-101-caixa-rede-basquete-studio-arquivo-de-corte.jpg",
+    "evaluation": 4
+  }
+]
